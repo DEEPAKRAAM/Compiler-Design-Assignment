@@ -1,0 +1,4 @@
+12345
+variable_name
+This is some text.
+Special_Chars!@#
