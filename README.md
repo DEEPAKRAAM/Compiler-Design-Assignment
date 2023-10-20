@@ -1,3 +1,5 @@
 # Compiler-Design-Assignment
-IIT Indore Assignment
-First assignment of Compiler Design using Flex
+Steps:
+lex filename.l
+gcc lex.yy.c -o filename -ll
+./lexer inputfile
